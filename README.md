@@ -83,3 +83,7 @@
 # Author
 
 Abarna Jeyabharathi L
+
+# ⭐ Support
+
+If you like this project, give it a **star ⭐ on GitHub**.
