@@ -65,6 +65,7 @@
 
 <img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/1f62ff10-1b8e-40d0-8a06-4878d837bbdc" />
 
+
 <img width="661" height="484" alt="Screenshot 2026-04-12 165328" src="https://github.com/user-attachments/assets/9f023ea8-31d1-4f48-b1e7-00c681f2700b" />
 
 # Learning Outcome
@@ -84,6 +85,6 @@
 
 Abarna Jeyabharathi L
 
-# ⭐ Support
+# Support
 
 If you like this project, give it a **star ⭐ on GitHub**.
